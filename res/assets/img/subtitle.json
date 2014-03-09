@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "subtitle0000.png",
+	"frame": {"x":2,"y":2,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0001.png",
+	"frame": {"x":5,"y":2,"w":28,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":12,"w":28,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0002.png",
+	"frame": {"x":35,"y":2,"w":42,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":42,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0003.png",
+	"frame": {"x":79,"y":2,"w":54,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":54,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0004.png",
+	"frame": {"x":135,"y":2,"w":68,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":68,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0005.png",
+	"frame": {"x":2,"y":18,"w":88,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":88,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0006.png",
+	"frame": {"x":92,"y":18,"w":100,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":12,"w":100,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0007.png",
+	"frame": {"x":2,"y":34,"w":114,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":12,"w":114,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0008.png",
+	"frame": {"x":118,"y":34,"w":128,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":128,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0009.png",
+	"frame": {"x":2,"y":50,"w":144,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":12,"w":144,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0010.png",
+	"frame": {"x":2,"y":66,"w":156,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":12,"w":156,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0011.png",
+	"frame": {"x":2,"y":82,"w":166,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":166,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0012.png",
+	"frame": {"x":2,"y":98,"w":180,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":180,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0013.png",
+	"frame": {"x":2,"y":114,"w":198,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":198,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0014.png",
+	"frame": {"x":2,"y":130,"w":210,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":210,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0015.png",
+	"frame": {"x":2,"y":146,"w":224,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":224,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0016.png",
+	"frame": {"x":2,"y":162,"w":238,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":238,"h":14},
+	"sourceSize": {"w":320,"h":40}
+},
+{
+	"filename": "subtitle0017.png",
+	"frame": {"x":2,"y":178,"w":222,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":12,"w":222,"h":14},
+	"sourceSize": {"w":320,"h":40}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "subtitle.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a6ff4b5191af7ebf36685acdb81e3653:1e1f9e740bba62fff22d4a6f2ca1134a:944358f3bbbc1baedac10630ade30a83$"
+}
+}

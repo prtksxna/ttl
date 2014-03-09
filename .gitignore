@@ -1,0 +1,5 @@
+*.psd
+res/assets/img/source
+res/assets/img/export
+*~
+.DS_Store

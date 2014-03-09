@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "taptoinit0000.png",
+	"frame": {"x":2,"y":2,"w":83,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":7},
+	"sourceSize": {"w":83,"h":7}
+},
+{
+	"filename": "taptoinit0001.png",
+	"frame": {"x":87,"y":2,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":83,"h":7}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "taptoinit.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":16},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:68e5cb600317b00144508c6915519fdc:f16b03f1d43ae4a11a0361e34c2ab53d:abc969dd4e336941caaff3d88dab3d2d$"
+}
+}
