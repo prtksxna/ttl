@@ -3,5 +3,6 @@
 	game.state.add('Boot', Scene.Boot);
 	game.state.add('Preloader', Scene.Preloader);
 	game.state.add('Menu', Scene.Menu);
+	game.state.add('Game', Scene.Game);
 	game.state.start('Boot');
 })();

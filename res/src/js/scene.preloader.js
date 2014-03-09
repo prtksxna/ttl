@@ -18,7 +18,7 @@ Scene.Preloader.prototype.preload = function () {
 
 	// Game
 	this.game.load.tilemap( 'level', 'res/assets/img/allevels.json', null, Phaser.Tilemap.TILED_JSON);
-	this.game.load.spritesheet( 'bgtiles', 'res/assets/img/bgtiles.png', 32, 32 );
+	this.game.load.tileset( 'bgtiles', 'res/assets/img/bgtiles.png', 32, 32 );
 }
 
 Scene.Preloader.prototype.create = function () {

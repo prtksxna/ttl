@@ -9,6 +9,11 @@ Scene.Menu.prototype.create = function () {
 	this.putTitle();
 	this.putSubTitle();
 	this.putTapToInit();
+
+	// Start game on tap
+	this.game.input.onDown.addOnce( function () {
+		this.game.state.start( 'Game' );
+	}, this );
 }
 
 Scene.Menu.prototype.putTapToInit = function () {
