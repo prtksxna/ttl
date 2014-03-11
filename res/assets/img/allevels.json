@@ -10,6 +10,31 @@
          "width":10,
          "x":0,
          "y":0
+        }, 
+        {
+         "height":15,
+         "name":"MovingPads",
+         "objects":[
+                {
+                 "gid":4,
+                 "height":0,
+                 "name":"L3P1",
+                 "properties":
+                    {
+                     "speed":"10"
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":161,
+                 "y":92
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
         }],
  "orientation":"orthogonal",
  "properties":
@@ -22,7 +47,7 @@
          "firstgid":1,
          "image":"bgtiles.png",
          "imageheight":32,
-         "imagewidth":64,
+         "imagewidth":96,
          "margin":0,
          "name":"bgtiles",
          "properties":
@@ -31,6 +56,21 @@
             },
          "spacing":0,
          "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "firstgid":4,
+         "image":"pad.png",
+         "imageheight":5,
+         "imagewidth":32,
+         "margin":0,
+         "name":"pad",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":5,
          "tilewidth":32
         }],
  "tilewidth":32,

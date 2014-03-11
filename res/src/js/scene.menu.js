@@ -83,6 +83,6 @@ Scene.Menu.prototype.flickerTitle = function () {
 	anim = ( anim < 1 ) ? "glitch" : "blink";
 
 	setTimeout( function () {
-		that.title.animations.play( anim, 20, false );
+		that.title.animations.play( anim, 30, false );
 	}, time );
 }

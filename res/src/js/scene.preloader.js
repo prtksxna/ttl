@@ -18,7 +18,11 @@ Scene.Preloader.prototype.preload = function () {
 
 	// Game
 	this.game.load.tilemap( 'level', 'res/assets/img/allevels.json', null, Phaser.Tilemap.TILED_JSON);
-	this.game.load.tileset( 'bgtiles', 'res/assets/img/bgtiles.png', 32, 32 );
+	this.game.load.image( 'bgtiles', 'res/assets/img/bgtiles.png', 32, 32 );
+	this.game.load.atlasJSONArray( 'scanlines', 'res/assets/img/scanlines.png', 'res/assets/img/scanlines.json' );
+	this.game.load.image( 'hud', 'res/assets/img/hud.png' );
+	this.game.load.image( 'pad', 'res/assets/img/pad.png' );
+
 }
 
 Scene.Preloader.prototype.create = function () {
