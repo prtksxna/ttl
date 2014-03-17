@@ -21,10 +21,12 @@ Scene.Preloader.prototype.preload = function () {
 	this.game.load.image( 'bgtiles', 'res/assets/img/bgtiles.png', 32, 32 );
 	this.game.load.atlasJSONArray( 'scanlines', 'res/assets/img/scanlines.png', 'res/assets/img/scanlines.json' );
 	this.game.load.image( 'hud', 'res/assets/img/hud.png' );
-	this.game.load.image( 'pad', 'res/assets/img/pad.png' );
-
+	this.game.load.atlasJSONArray( 'pad', 'res/assets/img/pad.png', 'res/assets/img/pad.json' );
 }
 
 Scene.Preloader.prototype.create = function () {
-	this.game.state.start( 'Menu' );
+	var that = this;
+	setTimeout( function () {
+		that.game.state.start( 'Menu' );
+	}, 1000 );
 }

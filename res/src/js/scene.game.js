@@ -15,7 +15,9 @@ Scene.Game.prototype.create = function () {
 	// MovingPads
 	this.movingPads = this.game.add.group();
 	this.map.createFromObjects( 'MovingPads', 4, 'pad', 0, true, false, this.movingPads); //TODO Change the sprite here and in Tiled as well
-	this.movingPads.setAll('body.velocity.x', -100);
+	this.movingPads.setAll( 'body.velocity.x', -100 );
+	this.movingPads.callAll( 'animations.add', 'animations', 'pulse', [0, 1, 2], 16, true );
+	this.movingPads.callAll( 'animations.play', 'animations', 'pulse' );
 
 	// HUD
 	this.hud = this.game.add.sprite( this.game.world.centerX, 10, 'hud');

@@ -18,16 +18,44 @@
                 {
                  "gid":4,
                  "height":0,
-                 "name":"L3P1",
+                 "name":"",
                  "properties":
                     {
-                     "speed":"10"
+
                     },
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":161,
-                 "y":92
+                 "x":169,
+                 "y":133
+                }, 
+                {
+                 "gid":4,
+                 "height":0,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":108,
+                 "y":293
+                }, 
+                {
+                 "gid":4,
+                 "height":0,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":229,
+                 "y":293
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -61,8 +89,8 @@
         {
          "firstgid":4,
          "image":"pad.png",
-         "imageheight":5,
-         "imagewidth":32,
+         "imageheight":256,
+         "imagewidth":128,
          "margin":0,
          "name":"pad",
          "properties":
@@ -70,8 +98,8 @@
 
             },
          "spacing":0,
-         "tileheight":5,
-         "tilewidth":32
+         "tileheight":64,
+         "tilewidth":64
         }],
  "tilewidth":32,
  "version":1,
